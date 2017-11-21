@@ -1,0 +1,102 @@
+  a {
+    color:#777777;
+  }
+  
+  a:hover {
+    color:#4aaaa5;
+  }
+  
+  body {
+    background-image: url("../images/hypnotize.png");
+  }
+
+  h1 {
+    text-align: left;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 24px;
+    color:#4aaaa5;
+  }
+  
+  #article {
+    padding: 20px;
+    background: #ffffff;
+    margin: 10px;
+    color:#4aaaa5;
+    border: 2px solid #dddddd;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 22px;
+  }
+
+  hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+    margin-bottom: 10px;
+}
+
+.pic {
+  float: left;
+  margin-right: 10px;
+  width:250px;
+}
+
+p {
+  position: relative;
+  left: 5px;
+  bottom: 10px;
+  color:#777777;
+  line-height: 200%;
+  font-size: 18px;
+  padding-bottom:20px;
+  text-align: justify;
+}
+
+#nav {
+  background: #ffffff;
+  padding: 20px;
+  color:#4aaaa5;
+  border: 2px solid #dddddd;
+  text-align: center;
+  margin: 10px;
+  margin-left: 75px;
+}
+
+#footer {
+  padding: 30px;
+  border-top: 10px solid #4aaaa5;
+  margin: 0 auto;
+  margin-top: 20px;
+  background: #666666;
+  text-align: center;
+  width: 100%;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color:#ffffff;
+}
+
+.icon {
+  
+    width: 75px;
+    padding: 10px;
+}
+
+#name {
+  background: #4aaaa5;
+  color: #ffffff;
+  padding: 20px;
+  font-size: 36px;
+  font-family: 'Exo 2', sans-serif;
+}
+.navbar-right {
+    font-size: 26px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+.col-md-6 {
+    margin-bottom: 15px;
+  
+  }
+
+.project {
+  width: 275px;
+}
